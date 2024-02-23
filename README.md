@@ -16,8 +16,8 @@ In 2024, the energy sector undergoes a transformative shift, compelling major ut
 Our investigation began by leveraging Dataset 1 to meticulously scrutinize the top 10 global solar energy producers, shedding light on the key contributors to solar power generation worldwide. Simultaneously, we delved into Dataset 2, analyzing solar radiation patterns in 20 randomly selected U.S. cities. This dual approach provided us with comprehensive insights into both global and local solar potential. Upon analyzing Dataset 1, we uncovered significant findings regarding the top solar-producing countries. Notably, the United States emerged as the second-largest producer of solar power globally, after China. Moreover, the U.S. showcased the highest capacity factor among all countries, underscoring its pivotal role in solar energy generation efficiency. These insights motivated us to further explore solar production dynamics within the U.S., prompting the selection of 20 random cities from the National Renewable Energy Laboratory's (NREL) National Solar Radiation Database (NSRDB). By meticulously analyzing four years' worth of data for each city, we gained comprehensive insights into localized solar energy dynamics.
 </p>
 
-## Project Flow:
-![Data Set 1-2](https://github.com/SaiThanishvi15/Solar-Vision/assets/110758670/4fee53b3-ddb3-44af-82cc-168c6fed66c9)
+![image](https://github.com/SaiThanishvi15/Solar-Vision/assets/110758670/f870bd5b-6986-4db9-a22a-b417697a876c)
+
 
 ## Results:
 <p align="justify">
