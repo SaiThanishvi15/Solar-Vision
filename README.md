@@ -1,5 +1,7 @@
 # Solar-Vision
+
 <div style="text-align: justify;">
+  
 ## Team Members:
 - Hemashree Kilari
 - Chetan Chauhan
