@@ -1,5 +1,5 @@
 # Solar-Vision
-
+<div style="text-align: justify;">
 ## Team Members:
 - Hemashree Kilari
 - Chetan Chauhan
@@ -27,3 +27,5 @@ The demonstrated adaptability and effective data management techniques have allo
 - [Leveraging Machine Learning for Sustainable Energy Solutions](https://www.cioapplications.com)
 - [Machine learning and the renewable energy revolution: Exploring solar and wind energy solutions for a sustainable future including innovations in energy storage](https://onlinelibrary.wiley.com)
 - [Machine learning for a sustainable energy future](https://www.nature.com)
+
+  </div>
