@@ -21,8 +21,9 @@ Our investigation began by leveraging Dataset 1 to meticulously scrutinize the t
 
 ## Results:
 <p align="justify">
-- Basic insights into potential solar energy generation based on geospatial analysis.
-- Identification of regions with the highest solar radiation levels, aiding in the selection of suitable locations for solar energy projects.
+
+  - Basic insights into potential solar energy generation based on geospatial analysis. 
+  - Identification of regions with the highest solar radiation levels, aiding in the selection of suitable locations for solar energy projects.
 </p>
 
 ## Conclusion and Future Scope:
